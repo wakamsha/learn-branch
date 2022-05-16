@@ -36,10 +36,11 @@
   - [x] コミット 4.2
   - [x] PR 作成 ( to `ブランチ3` )
 - ブランチ3 (2)
-  - [ ] Squash & Merge
+  - [x] Squash & Merge
 - ブランチ4 (2)
-  - [ ] マージ先を `qa` に変更
-  - [ ] Squash & Merge
+  - [x] `qa` を `git merge` で取り込む
+  - [x] マージ先を `qa` に変更
+  - [x] Squash & Merge
 - リリース
   - [ ] PR 作成 ( to `master` )
   - [ ] Squash & Merge
