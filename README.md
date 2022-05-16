@@ -21,16 +21,16 @@
   - [x] PR 作成 ( to `qa` )
   - [x] Squash & Merge
 - リリース
-  - [ ] PR 作成 ( to `master` )
-  - [ ] Squash & Merge
-  - [ ] タグ作成
+  - [x] PR 作成 ( to `master` )
+  - [x] Squash & Merge
+  - [x] タグ作成
 
 ### PR Chainパターン
 
 - ブランチ3 ( from qa )
-  - [ ] コミット 3.1
-  - [ ] コミット 3.2
-  - [ ] PR 作成 ( to `qa` )
+  - [x] コミット 3.1
+  - [x] コミット 3.2
+  - [x] PR 作成 ( to `qa` )
 - ブランチ4 ( from ブランチ3 )
   - [ ] コミット 4.1
   - [ ] コミット 4.2
