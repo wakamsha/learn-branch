@@ -16,10 +16,10 @@
   - [x] PR 作成 ( to `qa` )
   - [x] Squash & Merge
 - ブランチ2 ( from qa )
-  - [ ] コミット 2.1
-  - [ ] コミット 2.2
-  - [ ] PR 作成 ( to `qa` )
-  - [ ] Squash & Merge
+  - [x] コミット 2.1
+  - [x] コミット 2.2
+  - [x] PR 作成 ( to `qa` )
+  - [x] Squash & Merge
 - リリース
   - [ ] PR 作成 ( to `master` )
   - [ ] Squash & Merge
